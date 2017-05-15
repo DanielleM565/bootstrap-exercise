@@ -5,6 +5,7 @@
 		<!--this is for all the lame people who still use Internet Explorer -->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta http-equiv="x-ua-compatible" content="ie=edge">
+
 		<!--bootstrap stuff latest complied and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 		<!--Optional theme -->
