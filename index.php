@@ -32,63 +32,37 @@
 
 
 	</head>
+	<body class="sfooter">
+		<div class="sfooter-content">
 
-	<body>
-
-<!-- page header -->
-
-
-
-		<!-- navigation bar from bootstrap documentation -->
-		<header>
-			<nav class="navbar navbar-default">
-				<div class="container">
-					<!-- Brand and toggle get grouped for better mobile display -->
-					<div class="navbar-header">
-						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-							<span class="sr-only">Toggle navigation</span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</button>
-						<a class="navbar-brand" href="#">Bootstrap Challenge Demo</a>
-					</div>
-
-					<!-- Collect the nav links, forms, and other content for toggling -->
-					<div class="collapse navbar-collapse" id="main-menu">
-						<ul class="nav navbar-nav navbar-right">
-						<li><a href="https://github.com/rlewis2892/bootstrap-challenge-demo" target="_blank">GitHub</a></li>
-						<li><a href="https://bootcamp-coders.cnm.edu/~rlewis37" target="_blank">RL Deployment</a></li>
-						<li><a href="https://angular.io/" target="_blank">Angular.io</a></li>
-						</ul>
-					</div><!-- /.navbar-collapse -->
-				</div><!-- /.container-fluid -->
-			</nav>
-		</header>
-
-		<section>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="jumbotron text-center">
-							<h1>Welcome to the Bootstrap Challenge</h1>
-							<p>La croix chambray organic ugh, plaid raw denim pok pok umami gastropub neutra deep v paleo jianbing semiotics cray.</p>
+			<header>
+				<nav class="navbar navbar-default">
+					<div class="container">
+						<!-- Brand and toggle get grouped for better mobile display -->
+						<div class="navbar-header">
+							<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-menu" aria-expanded="false">
+								<span class="sr-only">Toggle navigation</span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</button>
+							<a class="navbar-brand" href="#">Bootstrap Challenge Demo</a>
 						</div>
-					</div>
-				</div>
-			</div>
-		</section>
 
+						<!-- Collect the nav links, forms, and other content for toggling -->
+						<div class="collapse navbar-collapse" id="main-menu">
+							<ul class="nav navbar-nav navbar-right">
+								<!--these  -->
+								<li><a href="https://github.com/rlewis2892/bootstrap-challenge-demo" target="_blank">GitHub</a></li>
+								<li><a href="https://bootcamp-coders.cnm.edu/~rlewis37" target="_blank">RL Deployment</a></li>
+								<li><a href="https://angular.io/" target="_blank">Angular.io</a></li>
+							</ul>
+						</div><!-- /.navbar-collapse -->
+					</div><!-- /.container-fluid -->
+				</nav>
+			</header>
 
-
-
-
-
-
-
-
-
-		<footer>this is the footer</footer>
+<!--Welcome Section -->
 
 
 
