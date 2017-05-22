@@ -63,6 +63,18 @@
 			</header>
 
 <!--Welcome Section -->
+			<section>
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="jumbotron text-center">
+								<h1>Welcome to my Bootstrap challenges</h1>
+								<p>pretend there are cool meaningful words here</p>
+						</div> <!--jumbotron stuff -->
+					</div> <!--row -->
+				</div> <!-- container-->
+			</section>
+
 
 
 
